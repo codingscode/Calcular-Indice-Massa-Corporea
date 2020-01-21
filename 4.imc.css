@@ -1,0 +1,23 @@
+
+.form {
+    height: 500px;
+    width: 500px;
+    margin: 40px;
+    position: relative;
+    align-content: center;
+    border: solid green;
+    padding: 20px;
+    background-color: lightgoldenrodyellow;
+}
+
+.botao {
+    margin-top: 20px;
+}
+
+.resultado {
+    border: solid 1px blue;
+    background-color: white;
+    padding: 20px;
+    width: 80px;
+}
+
